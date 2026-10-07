@@ -33,7 +33,9 @@ Performing causality assessment.
 Assessing seriousness and severity.
 Documenting and reporting the suspected ADR.
 Following up for additional information.
+
 5. ADR Identification Workflow
+   
 Patient receives medicine
           ↓
 Adverse event occurs
@@ -57,7 +59,9 @@ Assess seriousness/severity
 Document and report ADR
           ↓
 Follow-up and pharmacovigilance action
+
 6. Data Required for ADR Identification
+   
 Patient Information
 Patient age
 Sex
@@ -87,6 +91,7 @@ Concomitant Medicines
 All other medicines taken by the patient should be documented because they may be alternative or contributing causes.
 
 7. Important Factors in ADR Identification
+    
 A. Temporal Relationship
 
 The time between starting the medicine and appearance of the reaction is important.
@@ -134,7 +139,9 @@ Underlying diseases
 Infections
 Food or environmental exposures
 Other clinical conditions
+
 8. Causality Assessment
+   
 Causality assessment estimates how likely it is that the suspected medicine caused the reaction.
 Common approaches include:
 WHO-UMC System
@@ -152,7 +159,9 @@ Definite
 Probable
 Possible
 Doubtful
+
 9. Seriousness vs Severity
+
 These terms should not be confused.
 Severity
 Describes the intensity of the reaction.
@@ -169,7 +178,9 @@ Hospitalization or prolonged hospitalization
 Persistent/significant disability
 Congenital anomaly/birth defect
 Other medically important conditions
+
 10. Example ADR Case
+    
 Case
 A patient is prescribed Medicine A for a bacterial infection.
 After two days of treatment, the patient develops a skin rash.
@@ -188,8 +199,10 @@ Outcome: Documented and followed up
 Pharmacovigilance significance
 
 The case should be documented as a suspected ADR and reported through the appropriate pharmacovigilance reporting pathway when reporting criteria are met.
+
 11. Role of Pharmacovigilance in ADR Identification
 ADR identification contributes to:
+
 Patient safety
 Detection of new safety signals
 Identification of previously unknown reactions
@@ -198,7 +211,9 @@ Benefit-risk assessment
 Safer prescribing and medicine use
 Regulatory decision-making
 Prevention of avoidable medicine-related harm
+
 12. Expected Outcome of the Task
+
 After completing this task, the intern should be able to:
 Define an ADR.
 Explain the role of pharmacovigilance.
@@ -210,6 +225,7 @@ Understand causality assessment.
 Differentiate seriousness from severity.
 Understand the basic ADR reporting process.
 Explain why ADR identification is important for patient safety.
+
 13. Key Takeaway
 
 ADR Identification in Pharmacovigilance
